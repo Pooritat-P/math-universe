@@ -1,0 +1,18 @@
+{
+  "name": "Math Universe",
+  "short_name": "Math Universe",
+  "description": "Classroom multiplication space game for teachers.",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "background_color": "#06101f",
+  "theme_color": "#06101f",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
