@@ -1,9 +1,14 @@
-# Math Universe Build 13 Adaptive Difficulty HOTFIX1
+# Math Universe Build 13 Test Mode
 
-แก้:
-- บังคับให้การ์ดเลือกระดับความยากแสดงชัดบนหน้า Setup
-- เพิ่มตัวโหลดการตั้งค่าหลังหน้าเว็บโหลดเสร็จ
-- เปลี่ยน cache version เพื่อกัน Service Worker ดึงตัวเก่า
+เพิ่ม:
+- ปุ่ม 🧪 Test Mode ลอยมุมซ้ายล่าง เห็นแน่นอน
+- ใช้เลือก Difficulty และ Timer Mode ได้ แม้การ์ดปกติบนหน้า Setup ไม่แสดง
+- มีปุ่มทดลองสุ่มเวลาอุกกาบาต
+- มีปุ่มเริ่มภารกิจจาก Test Mode ได้ทันที
+- คงระบบ Adaptive Difficulty เดิมไว้
 
-วิธีอัป:
-แตก ZIP แล้วอัปไฟล์ทั้งหมดพร้อมโฟลเดอร์ assets/ ทับของเดิมบน GitHub Pages
+วิธีใช้:
+1. เปิดหน้าเว็บ
+2. กดปุ่ม 🧪 Test Mode มุมซ้ายล่าง
+3. เลือก Classroom/Research และ Easy/Normal/Hard/Legendary
+4. กด “ทดลองสุ่มเวลา” หรือ “ใช้ค่านี้แล้วเริ่มภารกิจ”

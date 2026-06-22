@@ -1,7 +1,7 @@
 {
-  "name": "Math Universe Build 13",
+  "name": "Math Universe Build 13 Test Mode",
   "short_name": "Math Universe",
-  "description": "Math Universe Build 13 Adaptive Difficulty Edition HOTFIX1",
+  "description": "Math Universe Build 13 Adaptive Difficulty + Test Mode",
   "start_url": "./index.html",
   "display": "fullscreen",
   "background_color": "#06101f",
