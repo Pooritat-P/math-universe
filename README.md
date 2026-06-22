@@ -1,14 +1,23 @@
-# Math Universe Build 13 Clean Hell Edition
+# Math Universe Build 13 Combo Minimal Safe Edition
 
-แก้ไข:
-- ลบ Test Mode ออกจริงทั้งหมด
-- เพิ่ม HELL Mode ในการ์ดเลือกระดับความยากหลักบนหน้า Setup
-- คง Smooth Meteor Movement
-- คง Classroom / Research Mode
+ฐาน: Build 13 Clean Hell No Test Mode FINAL
 
-HELL Mode:
-- Classroom: 3–5 วินาที
-- Research: 4 วินาที
-- Think Time: 0 วินาที
+แก้เฉพาะ:
+- เพิ่มระบบคำนวณ Damage ของ Combo ใน Boss Fight
+- ไม่แตะระบบยิงเลเซอร์
+- ไม่แตะระบบเอฟเฟกต์ระเบิด
+- ไม่แตะ showDamage / fireLaser / boomAtEnemy / showExplosion
 
-หลังอัป GitHub Pages ให้กด Ctrl+F5 หรือ Unregister Service Worker หากยังเห็นเวอร์ชันเก่า
+Combo Damage:
+- x1-x4 = 10 DMG
+- x5 = 12 DMG
+- x10 = 15 DMG
+- x20 = 20 DMG
+- x50 = 30 DMG
+- x100 = 40 DMG
+
+คงเดิม:
+- HELL Mode
+- Smooth Meteor
+- ไม่มี Test Mode
+- Classroom / Research Mode
