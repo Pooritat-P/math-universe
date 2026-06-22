@@ -1,7 +1,7 @@
 {
-  "name": "Math Universe Build 13 Distance Visual Ship",
+  "name": "Math Universe Build 13 Distance Fix",
   "short_name": "Math Universe",
-  "description": "Math Universe Build 13 Distance Visual Ship Icon",
+  "description": "Math Universe Build 13 Distance No Duplicate Planet",
   "start_url": "./index.html",
   "display": "fullscreen",
   "background_color": "#06101f",
