@@ -1,12 +1,13 @@
-# Math Universe Build 13 Distance No Duplicate Planet
+# Math Universe Build 13 Distance Bigger Final Touch
 
-แก้จาก Build 13 Distance Visual Ship Icon
+ฐาน: Distance Visual เวอร์ชันล่าสุด
 
-แก้เฉพาะ:
-- ลบดาวซ้ำใน Distance Visual
-- ใช้ดาวมุมบนขวาเดิม (#planetMini)
-- ใช้ภาพยานจริง assets/mini_ship_hud_icon.png แทน Emoji
-- เส้นทางและยานวิ่งไปหาดาวเดิม ไม่ซ้อนดาวใหม่
+ปรับเฉพาะแถบระยะทาง:
+- ขยายแถบระยะทางให้ใหญ่และเห็นชัดขึ้น
+- ยานไม่เข้าใกล้ดาวเร็วเกินไป
+- ก่อนข้อสุดท้าย ยานจะหยุดห่างจากดาวเล็กน้อย
+- เมื่อ dist = 0 / ถึงคำตอบสุดท้าย ยานจึงค่อยสัมผัสดาว
+- ใช้ดาวมุมบนขวาเดิม ไม่สร้างดาวซ้ำ
 
 ยังคง:
 - Report Table Scroll Fix
