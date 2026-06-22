@@ -1,16 +1,16 @@
-# Math Universe Build 13 Final Combo Impact Edition
+# Math Universe Build 13 Combo System Edition
 
-แก้ตามคำขอ:
-1. เปลี่ยนเอฟเฟกต์เลเซอร์กระทบเป้าหมายเป็น asset ที่แนบมา
-   - ไฟล์: assets/laser_impact_starburst.png
-   - แสดงเป็น Star Burst สีฟ้าตอนยิงโดนเป้าหมาย
+ฐาน: Build 13 Clean Hell No Test Mode FINAL
 
-2. ปรับบาลานซ์ Combo Damage ใหม่
-   - x5  = +2 DMG
-   - x10 = +5 DMG
-   - x20 = +10 DMG
-   - x50 = +20 DMG
-   - x100 = x2 DMG
+แก้เฉพาะระบบ Combo Damage ก่อน ยังไม่แตะเอฟเฟกต์ระเบิด
+
+Combo Damage ใหม่:
+- x1-x4 = 10 DMG
+- x5 = 12 DMG (+2)
+- x10 = 15 DMG (+5)
+- x20 = 20 DMG (+10)
+- x50 = 30 DMG (+20)
+- x100 = 20 DMG x2 = 40 DMG
 
 ยังคง:
 - HELL Mode
