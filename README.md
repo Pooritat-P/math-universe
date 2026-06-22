@@ -1,14 +1,9 @@
-# Math Universe Build 13 Test Mode
+# Math Universe Build 13 HELL MODE
 
-เพิ่ม:
-- ปุ่ม 🧪 Test Mode ลอยมุมซ้ายล่าง เห็นแน่นอน
-- ใช้เลือก Difficulty และ Timer Mode ได้ แม้การ์ดปกติบนหน้า Setup ไม่แสดง
-- มีปุ่มทดลองสุ่มเวลาอุกกาบาต
-- มีปุ่มเริ่มภารกิจจาก Test Mode ได้ทันที
-- คงระบบ Adaptive Difficulty เดิมไว้
+เพิ่มโหมด 🖤 HELL
 
-วิธีใช้:
-1. เปิดหน้าเว็บ
-2. กดปุ่ม 🧪 Test Mode มุมซ้ายล่าง
-3. เลือก Classroom/Research และ Easy/Normal/Hard/Legendary
-4. กด “ทดลองสุ่มเวลา” หรือ “ใช้ค่านี้แล้วเริ่มภารกิจ”
+- Classroom Mode : 3–5 วินาที
+- Research Mode : 4 วินาที
+- Think Time : 0 วินาที
+- เหมาะสำหรับการแข่งขันและนักเรียนที่ท่องสูตรคูณคล่องแล้ว
+- ใช้งานผ่านปุ่ม 🧪 Test Mode ได้ทันที
