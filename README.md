@@ -1,16 +1,19 @@
-# Math Universe Build 13 Report Scroll Fix
+# Math Universe Build 13 Report Table Scroll Only
 
 ฐาน: MathUniverse_Build13_CleanHell_NoTestMode_FINAL
 
 แก้เฉพาะ:
-- หน้าต่าง Mission Report มีขนาดตายตัว
-- ตารางรายชื่อนักเรียนมีแถบเลื่อนภายใน
-- Header ตารางติดด้านบนเวลาเลื่อน
-- ปุ่มเมนูด้านล่างไม่ถูกดันหายเมื่อมีนักเรียนจำนวนมาก
+- ตารางรายชื่อใน Mission Report สูงคงที่ 420px
+- แสดงได้ประมาณ 15 แถว
+- มีแถบเลื่อนภายในตาราง
+- หัวตาราง sticky เวลาเลื่อน
 
 ไม่แตะ:
-- ระบบ Boss Fight
-- ระบบ Combo
-- ระบบ Explosion
-- ระบบ Asset
-- ระบบโจทย์/สุ่มนักเรียน
+- โครง Modal
+- ปุ่มเมนู
+- Report Logic
+- Boss Fight
+- Combo
+- Explosion
+- Asset
+- Randomizer
