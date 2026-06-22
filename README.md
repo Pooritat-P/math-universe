@@ -1,14 +1,25 @@
-# Math Universe Build 13 Clean Hell Edition
+# Math Universe Build 12 Optimized Asset Version
 
-แก้ไข:
-- ลบ Test Mode ออกจริงทั้งหมด
-- เพิ่ม HELL Mode ในการ์ดเลือกระดับความยากหลักบนหน้า Setup
-- คง Smooth Meteor Movement
-- คง Classroom / Research Mode
+Created and Designed by Pooritat Pilab  
+Development Assistant: ChatGPT  
+© 2026 Pooritat Pilab — Educational Use Only
 
-HELL Mode:
-- Classroom: 3–5 วินาที
-- Research: 4 วินาที
-- Think Time: 0 วินาที
+## จุดสำคัญ
+เวอร์ชันนี้แก้ปัญหาไฟล์ HTML ใหญ่เกินไปแล้ว โดยแยกภาพ/asset ออกจาก `index.html` ไปไว้ในโฟลเดอร์ `assets/`
 
-หลังอัป GitHub Pages ให้กด Ctrl+F5 หรือ Unregister Service Worker หากยังเห็นเวอร์ชันเก่า
+## วิธีอัปขึ้น GitHub Pages
+1. แตก ZIP นี้
+2. เข้า Repository `math-universe`
+3. กด Add file > Upload files
+4. ลากไฟล์และโฟลเดอร์ทั้งหมดขึ้นไป:
+   - index.html
+   - manifest.json
+   - sw.js
+   - icon.svg
+   - README.md
+   - assets/
+5. Commit changes
+6. เปิดเว็บเดิม แล้วกด Ctrl+Shift+R ถ้ายังเห็นเวอร์ชันเก่า
+
+## หมายเหตุ
+อย่าลากไฟล์ ZIP ขึ้น GitHub โดยตรง ให้แตกไฟล์ก่อนเสมอ
