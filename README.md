@@ -1,14 +1,19 @@
-# Math Universe Build 13 Clean Hell Edition
+# Math Universe Build 13 Final Combo Impact Edition
 
-แก้ไข:
-- ลบ Test Mode ออกจริงทั้งหมด
-- เพิ่ม HELL Mode ในการ์ดเลือกระดับความยากหลักบนหน้า Setup
-- คง Smooth Meteor Movement
-- คง Classroom / Research Mode
+แก้ตามคำขอ:
+1. เปลี่ยนเอฟเฟกต์เลเซอร์กระทบเป้าหมายเป็น asset ที่แนบมา
+   - ไฟล์: assets/laser_impact_starburst.png
+   - แสดงเป็น Star Burst สีฟ้าตอนยิงโดนเป้าหมาย
 
-HELL Mode:
-- Classroom: 3–5 วินาที
-- Research: 4 วินาที
-- Think Time: 0 วินาที
+2. ปรับบาลานซ์ Combo Damage ใหม่
+   - x5  = +2 DMG
+   - x10 = +5 DMG
+   - x20 = +10 DMG
+   - x50 = +20 DMG
+   - x100 = x2 DMG
 
-หลังอัป GitHub Pages ให้กด Ctrl+F5 หรือ Unregister Service Worker หากยังเห็นเวอร์ชันเก่า
+ยังคง:
+- HELL Mode
+- Smooth Meteor
+- ไม่มี Test Mode
+- Classroom / Research Mode
