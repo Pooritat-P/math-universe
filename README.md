@@ -1,11 +1,14 @@
-# Math Universe Build 13 Smooth Meteor Edition
+# Math Universe Build 13 Clean Hell Edition
 
-แก้ตาม Feedback:
-- อุกกาบาตเคลื่อนที่ด้วยความเร็วคงที่ ไม่ช้าแล้ววาร์ปตอนท้าย
-- ความเร็วแปรผันตามเวลาในแต่ละโหมดความยากเท่านั้น
-- อุกกาบาตบอสใช้การเคลื่อนที่แบบคงที่เช่นกัน
-- คง HELL Mode และ Test Mode เดิมไว้
+แก้ไข:
+- ลบ Test Mode ออกจริงทั้งหมด
+- เพิ่ม HELL Mode ในการ์ดเลือกระดับความยากหลักบนหน้า Setup
+- คง Smooth Meteor Movement
+- คง Classroom / Research Mode
 
-หลักการ:
-ระยะทางเท่าเดิม แต่ระยะเวลาต่างกันตาม Difficulty
-Easy จึงเคลื่อนช้าและสมูธ ส่วน Hell เคลื่อนเร็วแต่ยังสมูธ
+HELL Mode:
+- Classroom: 3–5 วินาที
+- Research: 4 วินาที
+- Think Time: 0 วินาที
+
+หลังอัป GitHub Pages ให้กด Ctrl+F5 หรือ Unregister Service Worker หากยังเห็นเวอร์ชันเก่า
