@@ -1,19 +1,11 @@
-# Math Universe Build 13 Combo System Edition
+# Math Universe Build 13 Smooth Meteor Edition
 
-ฐาน: Build 13 Clean Hell No Test Mode FINAL
+แก้ตาม Feedback:
+- อุกกาบาตเคลื่อนที่ด้วยความเร็วคงที่ ไม่ช้าแล้ววาร์ปตอนท้าย
+- ความเร็วแปรผันตามเวลาในแต่ละโหมดความยากเท่านั้น
+- อุกกาบาตบอสใช้การเคลื่อนที่แบบคงที่เช่นกัน
+- คง HELL Mode และ Test Mode เดิมไว้
 
-แก้เฉพาะระบบ Combo Damage ก่อน ยังไม่แตะเอฟเฟกต์ระเบิด
-
-Combo Damage ใหม่:
-- x1-x4 = 10 DMG
-- x5 = 12 DMG (+2)
-- x10 = 15 DMG (+5)
-- x20 = 20 DMG (+10)
-- x50 = 30 DMG (+20)
-- x100 = 20 DMG x2 = 40 DMG
-
-ยังคง:
-- HELL Mode
-- Smooth Meteor
-- ไม่มี Test Mode
-- Classroom / Research Mode
+หลักการ:
+ระยะทางเท่าเดิม แต่ระยะเวลาต่างกันตาม Difficulty
+Easy จึงเคลื่อนช้าและสมูธ ส่วน Hell เคลื่อนเร็วแต่ยังสมูธ
