@@ -1,4 +1,4 @@
-const CACHE_NAME='math-universe-build13-distance-bigger-finaltouch-v1';
+const CACHE_NAME='math-universe-build13-pause-menu-complete-v1';
 const ASSETS=['./','./index.html','./manifest.json','./icon.svg'];
 self.addEventListener('install',e=>{
   e.waitUntil(caches.open(CACHE_NAME).then(c=>c.addAll(ASSETS)));

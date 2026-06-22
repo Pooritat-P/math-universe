@@ -1,15 +1,18 @@
-# Math Universe Build 13 Distance Bigger Final Touch
+# Math Universe Build 13 Pause Menu Complete
 
-ฐาน: Distance Visual เวอร์ชันล่าสุด
+ฐาน: Build 13 Distance Bigger Final Touch
 
-ปรับเฉพาะแถบระยะทาง:
-- ขยายแถบระยะทางให้ใหญ่และเห็นชัดขึ้น
-- ยานไม่เข้าใกล้ดาวเร็วเกินไป
-- ก่อนข้อสุดท้าย ยานจะหยุดห่างจากดาวเล็กน้อย
-- เมื่อ dist = 0 / ถึงคำตอบสุดท้าย ยานจึงค่อยสัมผัสดาว
-- ใช้ดาวมุมบนขวาเดิม ไม่สร้างดาวซ้ำ
+เพิ่มในเมนู Pause:
+- ▶ เล่นต่อ
+- 🔊 เปิด/ปิดเสียง
+- 🔄 เริ่มด่านใหม่
+- 🏠 กลับหน้าหลัก พร้อม popup ยืนยัน
+
+แก้เฉพาะ:
+- Pause Menu
 
 ยังคง:
+- Distance Bigger Final Touch
 - Report Table Scroll Fix
 - HELL Mode
 - ไม่มี Test Mode
