@@ -1,12 +1,12 @@
-# Math Universe Build 13 Distance Visual
+# Math Universe Build 13 Distance Visual Ship Icon
 
-ฐาน: Build 13 Report Table Scroll Only
+ฐาน: Build 13 Distance Visual
 
-เพิ่มเฉพาะ:
-- มุมบนขวาแสดงระยะทางแบบภาพ ไม่แสดงตัวเลข
-- ดาวเป้าหมายอยู่ด้านขวา
-- ไอคอนยานค่อย ๆ ขยับเข้าใกล้ดาวเมื่อผ่านโจทย์
-- ใช้ค่า dist เดิมของระบบ ไม่เปลี่ยน gameplay logic
+ปรับเฉพาะ:
+- ใช้ดาวเป้าหมายมุมบนขวาเดิม
+- เปลี่ยนไอคอนยานจาก Emoji เป็นภาพยานที่ผู้ใช้แนบ
+- ไฟล์: assets/mini_ship_hud_icon.png
+- ยานค่อย ๆ ขยับเข้าใกล้ดาวตามค่า Distance เดิม
 
 ยังคง:
 - Report Table Scroll Fix
