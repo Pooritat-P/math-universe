@@ -1,14 +1,15 @@
-# Math Universe Build 13 Clean Hell Edition
+# Math Universe Build 13 Boss Meteor Smooth Fix
 
-แก้ไข:
-- ลบ Test Mode ออกจริงทั้งหมด
-- เพิ่ม HELL Mode ในการ์ดเลือกระดับความยากหลักบนหน้า Setup
-- คง Smooth Meteor Movement
-- คง Classroom / Research Mode
+ฐาน: Build 13 Clean Hell No Test Mode FINAL
 
-HELL Mode:
-- Classroom: 3–5 วินาที
-- Research: 4 วินาที
-- Think Time: 0 วินาที
+แก้เฉพาะ:
+- อุกกาบาตที่บอสปล่อยใน Boss Fight เคลื่อนที่แบบความเร็วคงที่
+- ลดอาการขยับไม่เป็นธรรมชาติ / เร่งท้าย / วาร์ป
+- ไม่แตะระบบ Combo
+- ไม่แตะระบบ Explosion
+- ไม่แตะระบบ Asset
 
-หลังอัป GitHub Pages ให้กด Ctrl+F5 หรือ Unregister Service Worker หากยังเห็นเวอร์ชันเก่า
+ยังคง:
+- HELL Mode
+- ไม่มี Test Mode
+- Classroom / Research Mode
