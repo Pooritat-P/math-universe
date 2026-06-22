@@ -1,19 +1,15 @@
-# Math Universe Build 13 Report Table Scroll Only
+# Math Universe Build 13 Distance Visual
 
-ฐาน: MathUniverse_Build13_CleanHell_NoTestMode_FINAL
+ฐาน: Build 13 Report Table Scroll Only
 
-แก้เฉพาะ:
-- ตารางรายชื่อใน Mission Report สูงคงที่ 420px
-- แสดงได้ประมาณ 15 แถว
-- มีแถบเลื่อนภายในตาราง
-- หัวตาราง sticky เวลาเลื่อน
+เพิ่มเฉพาะ:
+- มุมบนขวาแสดงระยะทางแบบภาพ ไม่แสดงตัวเลข
+- ดาวเป้าหมายอยู่ด้านขวา
+- ไอคอนยานค่อย ๆ ขยับเข้าใกล้ดาวเมื่อผ่านโจทย์
+- ใช้ค่า dist เดิมของระบบ ไม่เปลี่ยน gameplay logic
 
-ไม่แตะ:
-- โครง Modal
-- ปุ่มเมนู
-- Report Logic
-- Boss Fight
-- Combo
-- Explosion
-- Asset
-- Randomizer
+ยังคง:
+- Report Table Scroll Fix
+- HELL Mode
+- ไม่มี Test Mode
+- Classroom / Research Mode

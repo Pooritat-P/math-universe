@@ -1,7 +1,7 @@
 {
-  "name": "Math Universe Build 13 Report Table Fix",
+  "name": "Math Universe Build 13 Distance Visual",
   "short_name": "Math Universe",
-  "description": "Math Universe Build 13 Report Table Scroll Only",
+  "description": "Math Universe Build 13 Distance Visual",
   "start_url": "./index.html",
   "display": "fullscreen",
   "background_color": "#06101f",
