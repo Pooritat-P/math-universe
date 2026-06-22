@@ -1,14 +1,16 @@
-# Math Universe Build 13 Clean Hell Edition
+# Math Universe Build 13 Report Scroll Fix
 
-แก้ไข:
-- ลบ Test Mode ออกจริงทั้งหมด
-- เพิ่ม HELL Mode ในการ์ดเลือกระดับความยากหลักบนหน้า Setup
-- คง Smooth Meteor Movement
-- คง Classroom / Research Mode
+ฐาน: MathUniverse_Build13_CleanHell_NoTestMode_FINAL
 
-HELL Mode:
-- Classroom: 3–5 วินาที
-- Research: 4 วินาที
-- Think Time: 0 วินาที
+แก้เฉพาะ:
+- หน้าต่าง Mission Report มีขนาดตายตัว
+- ตารางรายชื่อนักเรียนมีแถบเลื่อนภายใน
+- Header ตารางติดด้านบนเวลาเลื่อน
+- ปุ่มเมนูด้านล่างไม่ถูกดันหายเมื่อมีนักเรียนจำนวนมาก
 
-หลังอัป GitHub Pages ให้กด Ctrl+F5 หรือ Unregister Service Worker หากยังเห็นเวอร์ชันเก่า
+ไม่แตะ:
+- ระบบ Boss Fight
+- ระบบ Combo
+- ระบบ Explosion
+- ระบบ Asset
+- ระบบโจทย์/สุ่มนักเรียน
